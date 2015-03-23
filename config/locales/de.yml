@@ -470,7 +470,7 @@ de:
     associated_adjustment_closed: Die verknüpfte Anpassung ist geschlossen und wird nicht neu berechnet. Möchten Sie die Anpassung öffnen?
     authorization_failure: Bitte authentifizieren Sie sich.
     authorized: Autorisiert
-    auto_capture: Automatisch Erfassen
+    auto_capture: automatische Erfassung
     available_on: erhältlich ab
     average_order_value: Durchschnittsbestellwert
     avs_response: Ergebnis der Adressprüfung
@@ -625,7 +625,7 @@ de:
     doesnt_track_inventory: Bestandsverfolgung ist deaktiviert
     edit: Bearbeiten
     editing_resource: Eintrag bearbeiten
-    editing_rma_reason: Rücksendungsgrund bearbeiten
+    editing_rma_reason: Rückgabebewilligungsgrund bearbeiten
     editing_user: Benutzer bearbeiten
     eligibility_errors:
       messages:
@@ -829,13 +829,13 @@ de:
     new_payment_method: Neue Zahlungsmethode
     new_product: Neues Produkt
     new_promotion: Neue Werbeaktion
-    new_promotion_category: Neue Werbekategorie
+    new_promotion_category: Neue Kategorie für Werbeaktionen
     new_property: Neue Eigenschaft
     new_prototype: Neuer Prototyp
-    new_refund: Neue Rückerstattung
-    new_refund_reason: Rückerstattungsgrund begründen
+    new_refund: Neue Gutschrift
+    new_refund_reason: Neue Gutschriftbegründung
     new_return_authorization: Neue Rückgabebewilligung
-    new_rma_reason: Neue Rücksendungsbegründung
+    new_rma_reason: Neuer Rückgabebewilligungsgrund
     new_shipment_at_location: Neue Lieferung an Adresse
     new_shipping_category: Neue Versandkategorie
     new_shipping_method: Neue Versandart
@@ -1081,10 +1081,10 @@ de:
     received: erhalten
     reception_status: Empfangsstatus
     reference: Referenz
-    refund: Rückerstattung beantragen
+    refund: Rückerstattung
     refund_amount_must_be_greater_than_zero: Rückerstattung muss größer 0 sein
-    refund_reasons: Rückerstattungsbegründungen
-    refunded_amount: Rückerstattungshöhe
+    refund_reasons: Rückerstattungsgründe
+    refunded_amount: Rückerstattungsbetrag
     refunds: Rückerstattungen
     register: Als Neukunde registrieren
     registration: Registrierung
@@ -1172,7 +1172,7 @@ de:
     ship_total: Versand gesamt
     shipment: Sendung
     shipment_adjustments: Sendung anpassen
-    shipment_details: Details der Sendung
+    shipment_details: Versendungsdetails
     shipment_mailer:
       shipped_email:
         dear_customer: "Sehr geehrte/r Kunde/in,\n"
@@ -1290,7 +1290,7 @@ de:
     tax_categories: Steuerkategorien
     tax_category: Steuerkategorie
     tax_code: SteuerID
-    tax_included: Inkl. Steuern
+    tax_included: enthaltene Steuer
     tax_rate_amount_explanation: Steuern werden dezimal angegeben um Berechnungen zu erleichtern. (z.B. für 5% Steuern 0.05 eingeben)
     tax_rates: Steuersätze
     taxon: Produktklasse
